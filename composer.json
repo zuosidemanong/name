@@ -1,0 +1,13 @@
+{
+    "name": "administrator/name",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "作死的码农",
+            "email": "1034308501@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
